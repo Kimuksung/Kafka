@@ -16,3 +16,6 @@
 ## Kafka advanced
 8. [acks / Batch / Page Cache&Flush](https://dortmoot.tistory.com/126)
 9. [Replica failure&recovery](https://dortmoot.tistory.com/127)
+10. [Consumer_Rebalance](https://dortmoot.tistory.com/129)
+11. [Partition Assignment Strategy](https://dortmoot.tistory.com/130)
+12. [Cooperative Sticky Assignor](https://dortmoot.tistory.com/131)
