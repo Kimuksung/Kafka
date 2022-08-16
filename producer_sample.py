@@ -16,7 +16,7 @@ producer = KafkaProducer(bootstrap_servers=bootstrap_servers,
                          )
 
 # 카프카 토픽
-str_topic_name = 'Topic1'
+str_topic_name = 'test_topic'
 
 # 카프카 공급자 토픽에 데이터를 보낸다
 data = {"time": time.time()}
