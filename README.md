@@ -19,3 +19,12 @@
 10. [Consumer_Rebalance](https://dortmoot.tistory.com/129)
 11. [Partition Assignment Strategy](https://dortmoot.tistory.com/130)
 12. [Cooperative Sticky Assignor](https://dortmoot.tistory.com/131)
+13. [Log File](https://dortmoot.tistory.com/134)
+14. [EOS-Exactly Once Symantics](https://dortmoot.tistory.com/135)
+15. [EOS-Transaction](https://dortmoot.tistory.com/136)
+
+## Docker
+Docker-compose setting
+> One Zookeeper and One Broker
+
+16. [Docker-compose/Kafka CLI](https://dortmoot.tistory.com/137)
