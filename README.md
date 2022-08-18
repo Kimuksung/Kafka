@@ -1,8 +1,5 @@
-# Kafka
-
+<img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=Apache Kafka&logoColor=white" width="100" height="80" /></a>
 > Event-streaming Data Platform
-
-- Special Write to Disk
 
 ## Kafka Basic
 1. [What is Kafka?](https://dortmoot.tistory.com/113)
@@ -23,8 +20,8 @@
 14. [EOS-Exactly Once Symantics](https://dortmoot.tistory.com/135)
 15. [EOS-Transaction](https://dortmoot.tistory.com/136)
 
-## Docker
-Docker-compose setting
-> One Zookeeper and One Broker
+## Develop Kafka
+> kafka_2.13-3.2.1
 
-16. [Docker-compose/Kafka CLI](https://dortmoot.tistory.com/137)
+16. [Install Kafka](https://dortmoot.tistory.com/142)
+17. [Docker-compose Kafka](https://dortmoot.tistory.com/137)
