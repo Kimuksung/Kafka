@@ -21,7 +21,8 @@
 15. [EOS-Transaction](https://dortmoot.tistory.com/136)
 
 ## Develop Kafka
-> kafka_2.13-3.2.1
+- docker-compose-confluent-cluster.yml   
+- CLI = confluent/confluent-7.2.0   
 
-16. [Install Kafka](https://dortmoot.tistory.com/142)
-17. [Docker-compose Kafka](https://dortmoot.tistory.com/137)
+16. [Install Apache Kafka](https://dortmoot.tistory.com/142)
+17. [Docker-compose with Confluent Kafka](https://dortmoot.tistory.com/137)
